@@ -2354,6 +2354,18 @@ body > article {
           align-items: center;
 }
 
+#top header {
+  margin-bottom: 1.5em;
+}
+
+#top p {
+  margin-bottom: 1em;
+}
+
+#top ul.social li a:before {
+  background-color: #FAFAFA;
+}
+
 .image.fit {
   display: -webkit-box;
   display: -ms-flexbox;

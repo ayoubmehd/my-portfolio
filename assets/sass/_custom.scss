@@ -3,6 +3,18 @@
     align-items: center;
 }
 
+#top {
+    header {
+        margin-bottom: 1.5em;
+    }
+    p {
+        margin-bottom: 1em;
+    }
+    ul.social li a:before {
+        background-color: #FAFAFA;
+    }
+}
+
 .image.fit {
     display: flex;
     justify-content: center;
